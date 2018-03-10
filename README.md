@@ -1,2 +1,2 @@
 # hello-world
-Just hello world project
+a hello world project to get started with github
